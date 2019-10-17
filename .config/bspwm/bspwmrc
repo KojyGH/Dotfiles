@@ -3,7 +3,7 @@
 sxhkd &
 setxkbmap us
 ~/.fehbg &
-/home/tredix/.config/polybar/launch.sh &
+~/.config/polybar/launch.sh &
 udiskie &
 compton &
 
