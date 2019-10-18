@@ -1,7 +1,6 @@
 [colors]
 background = #18191F
 foreground = #C5C8C6
-foreground-alt = #80B760
 
 [bar/bar]
 width = 100%
@@ -9,10 +8,6 @@ height = 18
 radius = 0
 fixed-center = true
 wm-restack = bspwm
-underline-size = 1
-
-bar-bottom-size = 2
-bar-bottom-color = #C5C8C6
 
 offset-y = 0
 offset-x = 0

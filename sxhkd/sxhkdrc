@@ -24,7 +24,7 @@ super + p
 
 # Launch Rofi
 super + d
-	rofi -show drun -p -display-drun "Applicazioni"
+	rofi -show drun -p -display-drun
 
 # Power menu
 super + shift + e
@@ -102,4 +102,4 @@ super + ctrl + {Left,Down,Up,Right}
 
 # move a floating window
 super + ctrl+ alt + {Left,Down,Up,Right}
-	bspc node -v {-20 0,0 20,0 -20,20 0}
+bspc node -v {-20 0,0 20,0 -20,20 0}
