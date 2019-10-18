@@ -145,10 +145,6 @@ let g:airline#extensions#tmuxline#enabled = 1
 let g:airline#extensions#obsession#enabled = 1
 let g:airline_skip_empty_sections = 1
 let g:airline#extensions#obsession#indicator_text = '◘'
-
-"let g:airline_left_sep = ""
-" let g:airline_right_sep = ""
-
 let g:airline#extensions#tabline#enabled = 1
 
 " Goyo
@@ -157,5 +153,3 @@ map <C-g> :Goyo<CR>
 " VimWiki Syntax
 let g:vimwiki_list = [{'path': '~/vimwiki/',
                       \ 'syntax': 'markdown', 'ext': '.md'}]
-
-

@@ -1,0 +1,41 @@
+# Keybinds
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set page-padding 1
+map r reload
+map R rotate
+map K zoom in
+map J zoom out
+map i recolor
+map p print
+
+# General
+set font "Iosevka 8"
+set recolor "true"
+set recolor-keephue "true"
+set selection-clipboard "clipboard"
+
+# Colors
+set index-bg            "#18191F"
+set index-fg            "#C5C8C6"
+
+set index-active-bg     "#18191F"
+set index-active-fg     "#C5C8C6"
+
+set inputbar-bg         "#18191F"
+set inputbar-fg         "#C5C8C6"
+
+set statusbar-bg        "#18191F"
+set statusbar-fg        "#C5C8C6"
+
+set default-bg          "#18191F"
+set default-fg          "#C5C8C6"
+
+set completion-bg       "#18191F"
+set completion-fg       "#C5C8C6"
+
+set notification-bg     "#18191F"
+set notification-fg     "#C5C8C6"
+
+set recolor-lightcolor  "#18191F"
+set recolor-darkcolor   "#C5C8C6"
