@@ -47,12 +47,14 @@ pin-workspaces = true
 
 format = <label-state>
 
-ws-icon-0 = 1;
-ws-icon-1 = 2;
-ws-icon-2 = 3;
-ws-icon-3 = 4;
-ws-icon-4 = 5;
-ws-icon-5 = 6;
+ 50 ws-icon-0 = 1;
+ 51 ws-icon-1 = 2;
+ 52 ws-icon-2 = 3;
+ 53 ws-icon-3 = 4;
+ 54 ws-icon-4 = 5;
+ 55 ws-icon-5 = 6;
+ 56 ws-icon-6 = 7;
+ 57 ws-icon-7 = 8;
 
 label-monitor = %name%
 label-monitor-padding = 1
